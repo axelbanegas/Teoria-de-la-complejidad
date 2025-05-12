@@ -30,7 +30,6 @@ class App:
                 self.resultados.append((tam, nombre, tiempo))
                 print(f"Tamaño: {tam}, Método: {nombre}, Tiempo: {tiempo:.6f} segundos")
 
-        # Aquí llamamos al gráfico con los resultados
         generar_grafico(self.resultados)
 
 
