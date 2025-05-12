@@ -73,35 +73,35 @@ A continuación se muestran las capturas de consola con los tiempos de ejecució
 ### 🧪 Tamaño: 5,000 elementos
 
   
-  ![Tamaño 5000](img/Tamaño5.PNG)
+  ![Tamaño 5000](Tamaño5.PNG)
 
 ---
 
 ### 🧪 Tamaño: 10,000 elementos
 
   
-  ![Tamaño 10000](img/Tamaño10.PNG)
+  ![Tamaño 10000](Tamaño10.PNG)
 
 ---
 
 ### 🧪 Tamaño: 30,000 elementos
 
   
-  ![Tamaño 30000](img/Tamaño30.PNG)
+  ![Tamaño 30000](Tamaño30.PNG)
 
 ---
 
 ### 🧪 Tamaño: 50,000 elementos
 
   
-  ![Tamaño 50000](img/Tamaño50.PNG)
+  ![Tamaño 50000](Tamaño50.PNG)
 
 ---
 
 ### 🧪 Tamaño: 100,000 elementos
 
   
-  ![Tamaño 100000](img/Tamaño100.PNG)
+  ![Tamaño 100000](Tamaño100.PNG)
 
 ---
 ## ✅ Conclusiones
