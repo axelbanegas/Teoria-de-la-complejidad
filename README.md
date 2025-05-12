@@ -63,7 +63,7 @@ A continuación se presenta una gráfica de líneas en la cual se compara el tie
 > Eje X: Tamaño del arreglo  
 > Eje Y: Tiempo de ejecución (s)
 
-![Gráfica de Tiempos](grafico_resultados.png)
+![Gráfica de Tiempos](grafico_resultados.jpg)
 
 ---
 ## 📸 Evidencias de Resultados
